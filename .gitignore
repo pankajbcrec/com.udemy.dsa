@@ -36,6 +36,12 @@ out/
 .gradle/
 build/
 
+<<<<<<< HEAD
+=======
+#Github
+.github/
+
+>>>>>>> c74fb52 (Add Graph and Heap code)
 # Maven
 target/
 pom.xml.tag
